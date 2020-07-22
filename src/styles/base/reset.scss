@@ -1,0 +1,10 @@
+html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, pre, a, article, aside, footer, header, menu, nav, section {
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  vertical-align: baseline;
+  border: 0;
+}
+*, *::before, *::after {
+  box-sizing: border-box;
+}
